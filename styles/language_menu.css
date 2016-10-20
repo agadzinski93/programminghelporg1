@@ -1,0 +1,30 @@
+#language_name {color:#333333; text-align:center}
+
+#section_tools {position:relative; width:650px; margin-left:auto; margin-right:auto;
+	background-color:#7F7F7F; text-align:center; border:solid 1px black}
+	
+#tools a {color:gold; text-decoration:none}
+
+#tools a:visited {color:gold; text-decoration:none}
+
+#section_tutorials {position:relative; width:650px; margin-left:auto; margin-right:auto;
+	background-color:#7F7F7F; text-align:left; border:solid 1px gray; list-style-type:none;
+	font-style:none; text-decoration:none; line-height:25px; border:solid 1px black}
+	
+#section_tutorials_vb {position:relative; width:650px; margin-left:auto; margin-right:auto;
+	background-color:#333333; text-align:left; border:solid 1px gray; list-style-type:none;
+	font-style:none; text-decoration:none; line-height:12px; border:solid 1px black}
+	
+#tutorials  a {color:#333333; text-decoration:none; font-size:13pt; font-weight:bold}
+
+#tutorials a:hover {color:#FDD017; text-shadow:0px 0px 5px #FDD017;text-decoration:none}
+
+#section_projects {position:relative; width:650px; margin-left:auto; margin-right:auto;
+	background-color:#7F7F7F; border:solid 1px black}
+	
+#projects  a {color:#333333; text-decoration:none; font-size:13pt; font-weight:bold}
+
+#projects a:hover {color:#FDD017; text-shadow:0px 0px 5px #FDD017;text-decoration:none}
+
+#section_continue {position:relative; width:650px; margin-left:auto; margin-right:auto;
+	background-color:#7F7F7F; border:solid 1px black; top:20px}

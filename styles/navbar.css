@@ -1,0 +1,77 @@
+#navigation {font-size:0.75em; width:165px;border:solid 1px black}
+#navigation ul {margin:0; padding:0;}
+#navigation li {list-style: none;}
+
+ul.top-level {background:#fff solid;}
+ul.top-level li {
+ border-bottom: #fff solid;
+ border-top: #fff solid;
+ border-width: 1px;
+}
+
+#navigation a {
+ color:#EDEDED;
+ background:#7F7F7F;
+ cursor: pointer;
+ display:block;
+ height:25px;
+ line-height: 25px;
+ text-indent: 10px;                   
+ text-decoration:none;
+ width:100%;
+}
+
+#navigation a:hover {
+ text-decoration:none;
+ text-shadow:0px 0px 5px #707070;
+ background-color:#707070;
+}
+
+#navigation li:hover {
+ position: relative;
+}
+
+ul.submenu {
+	display: none;
+}
+
+li:hover .submenu{
+	border: #fff solid;
+	border-width: 1px;
+	display: block;
+	position: absolute;
+	left: 165px;
+	top: 0px;
+	width: 150px
+}
+
+ul.submenu li {
+	border: none;
+	float: left;
+	width:150px
+}
+
+#nav_top {position:relative; top:0px; width:500px; margin-left:auto; 
+	margin-right:auto}
+
+#horizontal td {color:silver; width:150px; text-align:center}
+
+#horizontal a {
+ color:red;
+ font-family:Times;
+ background:#333333;
+ cursor: pointer;
+ display:block;
+ height:30px;
+ line-height: 30px;
+ text-indent: 10px;                   
+ text-decoration:none;
+ width:100%;
+}
+
+#horizontal a:hover {
+ color:#FDD017;
+ text-shadow:0px 0px 5px #FDD017;
+ background-color:#1A1A1A;
+ text-decoration:none;
+}

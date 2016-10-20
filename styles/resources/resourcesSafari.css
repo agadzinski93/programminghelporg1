@@ -1,0 +1,44 @@
+body
+{
+	background-color:white;
+}
+
+.mainBody
+{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	height:420px;
+	width:100%;
+	top:10px;
+}
+
+.mainBodyContainer
+{
+	position:relative;
+	top:25px;
+	margin-left:auto;
+	margin-right:auto;
+	height:500px;
+	width:960px;
+}
+
+.resourceContainer
+{
+	position:relative;
+	float:left;
+	top:20px;
+	height:0px;
+	width:960px;
+	background-color:skyblue;
+}
+
+.resources
+{
+	position:relative;
+	float:left;
+	top:20px;
+	left:25px;
+	height:188px;
+	width:960px;
+}

@@ -1,0 +1,174 @@
+.mainBody
+{
+	position:relative;
+	width:100%;
+	top:380px;
+	margin-bottom:0px;
+}
+
+.mainBodyContainer
+{
+	position:relative;
+	top:25px;
+	margin-right:auto;
+	margin-left:auto;
+	width:960px;
+	height:900px;
+}
+
+.aboveVideoContainer
+{
+	position:absolute;
+	top:25px;
+	left:116px;
+	height:90px;
+	width:760px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.mainVideoContainer
+{
+	position:relative;
+	top:90px;
+	height:625px;
+	width:890px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.videoTitleContainer
+{
+	position:absolute;
+	top:25px;
+	height:30px;
+	width:640px;
+	background-color:#1B1B1B;
+}
+
+.prev
+{
+	position:relative;
+	float:left;
+	height:30px;
+	width:75px;
+	text-align:center;
+}
+
+.videoTitle
+{
+	position:relative;
+	float:left;
+	height:30px;
+	width:490px;
+	text-align:center;
+}
+
+.next
+{
+	position:relative;
+	float:left;
+	height:30px;
+	width:75px;
+	text-align:center;
+}
+
+.vidLink a
+{
+	text-decoration:none;
+	color:#A8A8A7;
+	display:block;
+}
+
+.vidLinkText
+{
+	position:relative;
+	top:5px;
+}
+
+.videoAssignments
+{
+	position:relative;
+	top:25px;
+	left:640px;
+	height:940px;
+	width:250px;
+	border-bottom:solid 20px #F3B335;
+	background-color:#F9FAD8;
+}
+
+.assignmentsTitleContainer
+{
+	position:absolute;
+	height:30px;
+	width:250px;
+	background-color:#F3B335;
+}
+
+.assignmentsTitle
+{
+	position:relative;
+	top:2px;
+	left:10px;
+	font-size:14pt;
+	color:#F9FAD8;
+}
+
+.assignments
+{
+	position:absolute;
+	top:50px;
+	left:10px;
+}
+
+.videoContainer
+{
+	position:absolute;
+	top:55px;
+	height:315px;
+	width:640px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.videoDescription
+{
+	position:absolute;
+	top:415px;
+	height:550px;
+	width:640px;
+	border-bottom:solid 20px #1B1B1B;
+	background-color:#494949;
+}
+
+.descriptionTitle
+{
+	position:relative;
+	left:25px;
+	color:#B9B9B8;
+	font-size:24pt;
+	font-weight:bold;
+	font-family:georgia;
+}
+
+.description
+{
+	position:relative;
+	left:25px;
+	color:#B9B9B8;
+	padding-right:30px;
+	font-size:18pt;
+	font-family:georgia;
+}
+
+.descriptionLinks
+{
+	position:relative;
+	left:25px;
+}
+
+.descriptionLinks a
+{
+	color:#5573E6;
+	text-decoration:none;
+}

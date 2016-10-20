@@ -1,0 +1,1 @@
+	<script type="text/javascript" src="http://www.programminghelp.org/scripts/tabs.js"></script>

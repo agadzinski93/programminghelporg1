@@ -1,0 +1,78 @@
+.mainBody
+{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	height:580px;
+	width:100%;
+	top:10px;
+}
+
+.mainBodyContainer
+{
+	position:relative;
+	top:25px;
+	margin-left:auto;
+	margin-right:auto;
+	height:550px;
+	width:960px;
+}
+
+.aboutMe
+{
+	position:relative;
+	float:left;
+	height:0px;
+	width:960px;
+}
+
+.personalPhotoContainer
+{
+	position:relative;
+	float:left;
+	top:0px;
+	left:25px;
+	height:424px;
+	width:238px;
+	border:solid 5px #B4B4B4;
+	border-radius:5px;
+	display:none;
+}
+
+#personalPhoto
+{
+	position:relative;
+}
+
+#signature
+{
+	position:relative;
+	font-size:40px;
+	color:#B4B4B4;
+}
+
+.personalDescription
+{
+	position:relative;
+	float:left;
+	top:0px;
+	left:65px;
+	height:400px;
+	width:800px;
+	background-color:#F0EDED;
+	border-radius:5px;
+	padding-left:10px;
+	padding-right:10px;
+	font-size:28px;
+}
+
+#description
+{
+	position:relative;
+	bottom:10px;
+}
+
+.title
+{
+	font-size:28px;
+}

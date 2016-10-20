@@ -1,0 +1,91 @@
+.mainBody
+{
+	position:relative;
+	height:580px;
+	width:100%;
+	top:380px;
+	margin-bottom:0px;
+}
+
+.mainBodyContainer
+{
+	position:relative;
+	top:25px;
+	margin-left:auto;
+	margin-right:auto;
+	height:550px;
+	width:960px;
+}
+
+.generalInquiry
+{
+	position:absolute;
+	top:0px;
+	left:50px;
+}
+
+.reportBug
+{
+	position:absolute;
+	top:125px;
+	left:50px;
+	float:left;
+	z-index:1;
+}
+
+.title
+{
+	font-size:28px;
+}
+
+.note
+{
+	font-size:12px;
+	font-style:italic;
+}
+
+.send
+{
+	height:25px;
+	width:70px;
+	color:white;
+	font-size:14px;
+	background-color:#114FDC;
+	border:0px;
+}
+
+.send:hover
+{
+	background-color:#4275E7;
+}
+
+#errorBoxOne
+{
+	position:relative;
+	top:10px;
+	height:25px;
+	width:420px;
+	background-color:#F3D3D7;
+	border:solid 1px red;
+	display:none;
+}
+
+#errorBoxTwo
+{
+	position:relative;
+	top:10px;
+	height:25px;
+	width:420px;
+	background-color:#F3D3D7;
+	border:solid 1px red;
+	display:none;
+}
+
+.errorText
+{
+	position:relative;
+	top:1px;
+	padding-left:5px;
+	font-size:13px;
+	color:red;
+}
